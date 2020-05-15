@@ -9,7 +9,7 @@ $(` <center><div></div><center>
 
 
 $(`<div class="uzr fl corner borderg mm bid1camh6so110" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:white;">
-      <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(&quot;pic/1e871qp6o10.gif.jpg&quot;);" class="fl fitimg hand u-pic    ">
+      <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(&quot;pic/1e871qp6o10.gif&quot;);" class="fl fitimg hand u-pic    ">
       <span style="margin-top:2px;padding:0px 2px;margin-left:-20px;margin-right:4px;color:grey" class="fr minix tago" ago="1523322166256">الآن</span>
       <div class="uzr fl" style="padding:0px;width:80%">
         <div style="padding:0px;width:100%;" class="fl">
@@ -163,7 +163,7 @@ label.btn.minix.btn-danger.pphide.fr.border.fa.fa-close.phide {border-radius: 40
 }
 tn.btn-primary.dots.roomh.border.corner {border: 1px solid #FFF0FA;}
 .fl.fa.fa-sign-out.btn.btn-primary.dots.roomh.border.corner {border: 1px solid #FFF0FA;}
-.fl.nosel.label.pnhead {color: #BA4E86;}
+.fl.nosel.label.pnhead {color: #000000;}
 .u-msg.break.fl {color: #780444;}
 .s1.fa.fa-user.label.bagex.label-as-badge.label-successd {background-color: #FFE0F6!important;}
 .room.borderg.hand.nosel.fl, .border-radius {border: 1px solid #FFF0F9;}
