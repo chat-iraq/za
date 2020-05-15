@@ -9,7 +9,7 @@ $(` <center><div></div><center>
 
 
 $(`<div class="uzr fl corner borderg mm bid1camh6so110" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:white;">
-      <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(&quot;pic/1cak7fqj310.png.jpg&quot;);" class="fl fitimg hand u-pic    ">
+      <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(&quot;pic/1e871qp6o10.gif.jpg&quot;);" class="fl fitimg hand u-pic    ">
       <span style="margin-top:2px;padding:0px 2px;margin-left:-20px;margin-right:4px;color:grey" class="fr minix tago" ago="1523322166256">الآن</span>
       <div class="uzr fl" style="padding:0px;width:80%">
         <div style="padding:0px;width:100%;" class="fl">
@@ -32,9 +32,9 @@ $_SESSION['css_show_key'] = "Mr.Ajax";
 <link rel="stylesheet" type="text/css" href=""><style>
 @font-face{font-family:'jazeera';src: url('https://www.fontstatic.com/fonts/jazeera/jazeera.eot?#iefix');src: local('الجزيرة'), local('jazeera'),url('https://www.fontstatic.com/fonts/jazeera/jazeera.woff') format('woff');}
 @font-face{font-family:'jazeera-light';src: url('https://www.fontstatic.com/fonts/jazeera-light/jazeera-light.eot?#iefix');src: local('الجزيرة خفيف'), local('jazeera-light'),url('https://www.fontstatic.com/fonts/jazeera-light/jazeera-light.woff') format('woff');}
-.fr.borderg a {color: #BA4E86;}
-.fr.borderg {color: #BA4E86;}
-div#tlogins .hand.nosel.fl.uzr.border, .lonline.light.break {background-image: url(https://iqr30.com/sico/z1c75j5o5l10.png);}
+.fr.borderg a {color: #000000;}
+.fr.borderg {color: #000000;}
+div#tlogins .hand.nosel.fl.uzr.border, .lonline.light.break {background-image: url(https://chat-iraq.com/sico/z1e8ck1lah10.png);}
 #asim7 {margin-bottom: 3px; height: 26px; color: #780444; border-radius: 5px 5px 5px 5px; border-bottom: 2px solid #FF0897; border-top: 2px solid #FF0897; padding-bottom: 2px!important; font-family: 'jazeera',FontAwesome; font-size: 16px!important; padding: 2px 10px 2px 10px;}
 .asim11 {background-image: url(https://iqr30.com/sico/z1c83boo5b10.jpg);}
 .btn.btn-primary.btn-sm {
@@ -86,7 +86,7 @@ outline: 0;
     box-shadow: inset 0 2px 2px rgba(0,0,0,.075), 0 0 8px rgba(214,90,94);border: 1px solid #FFE0F6;
 }
 .btn-sm, .btn-sm {background-image: url(https://iqr30.com/sico/z1c77cd09a10.gif);}
-.border.corner.light.fr.break {background-image: url(https://iqr30.com/sico/z1c75j5o5l10.png);}
+.border.corner.light.fr.break {background-image: url(https://chat-iraq.com/sico/z1e8ck1lah10.png);}
 .asim12 {background-image: url(https://iqr30.com/sico/z1c75j5o5l10.png); border-radius: 10px 10px 10px 10px; font-family: 'jazeera',FontAwesome; padding: 2px 10px 2px 10px; margin:7px 10px 7px 10px;}
 label.fl.label.loginstat.label-success {
     border-radius: 5px 5px 5px 5px!important;
@@ -132,9 +132,9 @@ div#tlogins {
     border-radius: 20px 20px 0px 0px;
 }
 .hand.nosel.fl.uzr.border, .hand.nosel.fl.uzr.border {border: 1px solid #FFE0F6;font-family: 'jazeera',FontAwesome;border-radius: 5px 5px 10px 10px;}
-body, .nosel.fl.bg, .tablebox.footer.fl.light, .break.fr {background-image: url(https://iqr30.com/sico/z1c75j5o5l10.png)}
+body, .nosel.fl.bg, .tablebox.footer.fl.light, .break.fr {background-image: url(https://chat-iraq.com/sico/z1e8ck1lah10.png)}
 .s1.fa.fa-user.label.bagex.label-as-badge.label-successd {background-color: #FFE0F6!important;}
-.s1.fa.fa-user.label.badgex.label-as-badge.label-success {color: #BA4E86;}
+.s1.fa.fa-user.label.badgex.label-as-badge.label-success {color: #000000;}
 .fl.label.loginstat.label-success, .fl.label.loginstat.label-info {color: #BA4E86;border: 1px solid #FFE0F6;border-radius: 5px 5px 5px 5px;margin-top: 1px;background-color: #FFFFFF!important;}
 label.btn.minix.btn-danger.phide.fr.border.fa.fa-minus {border-radius: 40px 40px 40px 0px; margin: 1px; border: 1px solid #E04646;}
 label.btn.btn-info.fr.border.fa.fa-expand {border-radius: 25px 25px 0px 25px; margin: 1px; border: 1px solid #FFE0F6; }
@@ -175,7 +175,7 @@ tn.btn-primary.dots.roomh.border.corner {border: 1px solid #FFF0FA;}
 .room.borderg.hand.nosel.fl img.fl.u-pic {
     border-radius: 15px 15px 15px 15px;
 }
-.fr.minix.tago {color: #BA4E86;}
+.fr.minix.tago {color: #000000;}
 textarea.fl.filw.corner.tbox {
 border: 1px solid #FFFFFA;
     color: #780444;
@@ -278,7 +278,7 @@ label.label.label-primary.mini.fl {
     font-family: 'jazeera-light',FontAwesome;
     margin-top: 1px;
 }
-.s1.fa.fa-google-wallet.label.badgex.label-as-badge.label-success {color: #BA4E86;}
+.s1.fa.fa-google-wallet.label.badgex.label-as-badge.label-success {color: #000000;}
 .s1.fa.fa-google-wallet.label.badgex.label-as-badge.label-success {
     padding: 1px 1px 1px 1px;
     background-color: #FFFFFF;
@@ -289,7 +289,7 @@ label.label.label-primary.mini.fl {
 .btn-asim {background-image: url(https://iqr30.com/sico/z1c77cfdeg10.gif);}
 ul.nav.nav-tabs.fl li a {ffont-family: 'jazeera',FontAwesome;font-size: 15px!important;padding: 4px!important;text-align: center!important;border-radius: 5px 5px 0px 0px;width: 100%;color: #bd4b87;background-color: #FF3333;color: white;}
 </style>
-`).insertBefore('head title'),$(`<center><div><marquee direction="right" width="99%" id="asim8" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5">  &nbsp;اهلا وسهلا بكم في شات <font color="#595757" class="asim12">قريبا</font> ● · افضل سوبر لهذا الاسبوع  · ●<font class="asim11" color="#727A54"> قريبا </font> ● · افضل زائر لهذا الاسبوع  · ●<font class="asim11" color="#ff9900"> قريبا </font> ● · افضل زائرة لهذا الاسبوع  · ●<font class="asim11" color="#ff00ff"> قريبا </font> ● · مبدع الحائط لهذا الاسبوع · ●<font class="asim11" color="#5CAD9A"> قريبا </font> ● · مبدعة الحائط لهذا الاسبوع · ●<font class="asim11" color="#800000"> قريبا </font> ● · افضل تواجد لهذا الاسبوع · ●<font class="asim11" color="#417570"> قريبا </font>  ● · مع تمنياتنا للجميع بـ أطيب الاوقات&nbsp;</marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break'),document.getElementById('tbox').placeholder='\u0639\u0645\u064A \u0639\u0648\u0641 \u0627\u0644\u0633\u0637\u062D \u0648\u062F\u0631\u062F\u0634 \u0648\u064A\u0627\u0646\u0627',$('[data-target=#wall]').attr('title','\u0644\u062A\u0646\u0634\u0631\u0648\u0646 \u0627\u063A\u0627\u0646\u064A'),$(`
+`).insertBefore('head title'),$(`<center><div><marquee direction="right" width="99%" id="asim8" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5">  &nbsp;اهلا وسهلا بكم في شات عسل تايم <font color="#595757" class="asim12">قريبا</font> ● · افضل سوبر لهذا الاسبوع  · ●<font class="asim11" color="#727A54"> قريبا </font> ● · افضل زائر لهذا الاسبوع  · ●<font class="asim11" color="#ff9900"> قريبا </font> ● · افضل زائرة لهذا الاسبوع  · ●<font class="asim11" color="#ff00ff"> قريبا </font> ● · مبدع الحائط لهذا الاسبوع · ●<font class="asim11" color="#5CAD9A"> قريبا </font> ● · مبدعة الحائط لهذا الاسبوع · ●<font class="asim11" color="#800000"> قريبا </font> ● · افضل تواجد لهذا الاسبوع · ●<font class="asim11" color="#417570"> قريبا </font>  ● · مع تمنياتنا للجميع بـ أطيب الاوقات&nbsp;</marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break'),document.getElementById('tbox').placeholder='\u0639\u0645\u064A \u0639\u0648\u0641 \u0627\u0644\u0633\u0637\u062D \u0648\u062F\u0631\u062F\u0634 \u0648\u064A\u0627\u0646\u0627',$('[data-target=#wall]').attr('title','\u0644\u062A\u0646\u0634\u0631\u0648\u0646 \u0627\u063A\u0627\u0646\u064A'),$(`
 <div  class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div style="max-width: 390px;"class="modal-dialog" role="document">
     <div class="modal-content"style="background-color: #FEF5FF;">
