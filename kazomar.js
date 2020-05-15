@@ -17,7 +17,7 @@ $(`<div class="uzr fl corner borderg mm bid1camh6so110" style="border-radius:5px
           <span style="padding: 1px 8px; margin-top: 2px; display: block; max-width: 82%; border-radius: 3px; color: rgb(250, 250, 250); background-color: rgb(130, 130, 130);" class="corner nosel u-topic dots fl hand">  ❰عمر الجغيفي❱ ●・💀</span>
         </div>
         <br>
-        <div style="padding:0px; width:100%;" class=" u-msg   break  fl">.&nbsp;</div>
+        <div style="padding:0px; width:100%;" class=" u-msg   break  fl">لـّنآ‘إْ المـّآإْضـّي ولـّنآ‘إْ الـّغدِ ، ..&nbsp;</div>
       </div>
 &nbsp;<br />
 &nbsp;</div>
@@ -36,7 +36,7 @@ $_SESSION['css_show_key'] = "Mr.Ajax";
 .fr.borderg {color: #000000;}
 div#tlogins .hand.nosel.fl.uzr.border, .lonline.light.break {background-image: url(https://chat-iraq.com/sico/z1e8ck1lah10.png);}
 #asim7 {margin-bottom: 3px; height: 26px; color: #780444; border-radius: 5px 5px 5px 5px; border-bottom: 2px solid #FF0897; border-top: 2px solid #FF0897; padding-bottom: 2px!important; font-family: 'jazeera',FontAwesome; font-size: 16px!important; padding: 2px 10px 2px 10px;}
-.asim11 {background-image: url(https://iqr30.com/sico/z1c83boo5b10.jpg);}
+.asim11 {background-image: url(https://chat-iraq.com/sico/z1e8ck1lah10.png);}
 .btn.btn-primary.btn-sm {
     background-color: #AB325E!important;
 }
@@ -55,7 +55,7 @@ div#tlogins .fr.borderg a {
 .fr.borderg {border: 1px solid #FFE0F6;font-family: 'jazeera',FontAwesome;border-radius: 5px 5px 5px 5px;margin-top: 1px;}
 ul.nav.nav-tabs.fl li a:hover {background-color: #FF3333;color: white;}
 fa.fa-user {border-radius: 10px 10px 10px 10px;}
-.btn-sm, .btn-sm {font-family: 'jazeera',FontAwesome;font-size: 13px!important;padding: 3px!important;text-align: center!important;border-radius: 10px 10px 10px 10px;width: 100%;background-image: url(https://iqr30.com/sico/z1c77cd09a10.gif);}
+.btn-sm, .btn-sm {font-family: 'jazeera',FontAwesome;font-size: 13px!important;padding: 3px!important;text-align: center!important;border-radius: 10px 10px 10px 10px;width: 100%;background-image: url(https://chat-iraq.com/sico/z1e8ck1lah10.png);}
 .asim111 {
 font-family: 'jazeera',FontAwesome;
     
@@ -75,7 +75,7 @@ a.label.label-primary.fl img.fl {
 }
 div#l3 button, div#l1 button {background-color: #cc2965!important; border: 1px solid #ba3c66;  font-family: 'jazeera',FontAwesome; border: 1px solid #FFE0F6; border-radius: 30px 30px 30px 30px;}
 div#l2 button {background-color: #cc2965!important; border: 1px solid #ba3c66;  font-family: 'jazeera',FontAwesome; border: 1px solid #FFE0F6;border-radius: 30px 30px 30px 30px;}
-#collapseExample {font-family: 'jazeera',FontAwesome;font-size: 11px!important;padding: 2px!important;text-align: center!important;width: 100%;background-image: url(https://iqr30.com/sico/z1c77cfdeg10.gif);
+#collapseExample {font-family: 'jazeera',FontAwesome;font-size: 11px!important;padding: 2px!important;text-align: center!important;width: 100%;background-image: url(https://chat-iraq.com/sico/z1e8ck1lah10.png);
 border-radius: 10px 10px 10px 10px;
     border: 1px solid #FFE0F6;
     border-radius: 10px 10px 10px 10pxpx;
@@ -85,9 +85,9 @@ outline: 0;
     -webkit-box-shadow: inset 0 2px 2px rgba(0,0,0,.075), 0 0 8px rgba(214,90,94);
     box-shadow: inset 0 2px 2px rgba(0,0,0,.075), 0 0 8px rgba(214,90,94);border: 1px solid #FFE0F6;
 }
-.btn-sm, .btn-sm {background-image: url(https://iqr30.com/sico/z1c77cd09a10.gif);}
+.btn-sm, .btn-sm {background-image: url(https://chat-iraq.com/sico/z1e8ck1lah10.png);}
 .border.corner.light.fr.break {background-image: url(https://chat-iraq.com/sico/z1e8ck1lah10.png);}
-.asim12 {background-image: url(https://iqr30.com/sico/z1c75j5o5l10.png); border-radius: 10px 10px 10px 10px; font-family: 'jazeera',FontAwesome; padding: 2px 10px 2px 10px; margin:7px 10px 7px 10px;}
+.asim12 {background-image: url(https://chat-iraq.com/sico/z1e8ck1lah10.png); border-radius: 10px 10px 10px 10px; font-family: 'jazeera',FontAwesome; padding: 2px 10px 2px 10px; margin:7px 10px 7px 10px;}
 label.fl.label.loginstat.label-success {
     border-radius: 5px 5px 5px 5px!important;
     font-family: 'jazeera',FontAwesome;
@@ -285,8 +285,8 @@ label.label.label-primary.mini.fl {
     border-radius: 5px 5px 5px 5px;
     margin-left: -8px;
 }
-.btn-sm, .btn-sm {background-image: url(https://iqr30.com/sico/z1c77cd09a10.gif);}
-.btn-asim {background-image: url(https://iqr30.com/sico/z1c77cfdeg10.gif);}
+.btn-sm, .btn-sm {background-image: url(https://chat-iraq.com/sico/z1e8ck1lah10.png);}
+.btn-asim {background-image: url(https://chat-iraq.com/sico/z1e8ck1lah10.png);}
 ul.nav.nav-tabs.fl li a {ffont-family: 'jazeera',FontAwesome;font-size: 15px!important;padding: 4px!important;text-align: center!important;border-radius: 5px 5px 0px 0px;width: 100%;color: #bd4b87;background-color: #FF3333;color: white;}
 </style>
 `).insertBefore('head title'),$(`<center><div><marquee direction="right" width="99%" id="asim8" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5">  &nbsp;اهلا وسهلا بكم في شات عسل تايم <font color="#595757" class="asim12">قريبا</font> ● · افضل سوبر لهذا الاسبوع  · ●<font class="asim11" color="#727A54"> قريبا </font> ● · افضل زائر لهذا الاسبوع  · ●<font class="asim11" color="#ff9900"> قريبا </font> ● · افضل زائرة لهذا الاسبوع  · ●<font class="asim11" color="#ff00ff"> قريبا </font> ● · مبدع الحائط لهذا الاسبوع · ●<font class="asim11" color="#5CAD9A"> قريبا </font> ● · مبدعة الحائط لهذا الاسبوع · ●<font class="asim11" color="#800000"> قريبا </font> ● · افضل تواجد لهذا الاسبوع · ●<font class="asim11" color="#417570"> قريبا </font>  ● · مع تمنياتنا للجميع بـ أطيب الاوقات&nbsp;</marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break'),document.getElementById('tbox').placeholder='\u0639\u0645\u064A \u0639\u0648\u0641 \u0627\u0644\u0633\u0637\u062D \u0648\u062F\u0631\u062F\u0634 \u0648\u064A\u0627\u0646\u0627',$('[data-target=#wall]').attr('title','\u0644\u062A\u0646\u0634\u0631\u0648\u0646 \u0627\u063A\u0627\u0646\u064A'),$(`
