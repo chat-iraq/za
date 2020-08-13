@@ -13,19 +13,19 @@ $(`<div class="uzr fl corner borderg mm bid1camh6so110" style="border-radius:5px
       <span style="margin-top:2px;padding:0px 2px;margin-left:-20px;margin-right:4px;color:grey" class="fr minix tago" ago="1523322166256">الآن</span>
       <div class="uzr fl" style="padding:0px;width:80%">
         <div style="padding:0px;width:100%;" class="fl">
-          <img class="fl u-ico" alt="" src="sico/z1ca7mtgpj10.gif">
-          <span style="padding: 1px 8px; margin-top: 2px; display: block; max-width: 82%; border-radius: 3px; color: rgb(250, 250, 250); background-color: rgb(130, 130, 130);" class="corner nosel u-topic dots fl hand">  ❰عمر الجغيفي❱ ●・💀</span>
+          <img class="fl u-ico" alt="" src="sico/1597341208200.gif">
+          <span style="padding: 1px 8px; margin-top: 2px; display: block; max-width: 82%; border-radius: 3px; color: rgb(250, 250, 250); background-color: rgb(130, 130, 130);" class="corner nosel u-topic dots fl hand">  شــات عســل تــايم</span>
         </div>
         <br>
-        <div style="padding:0px; width:100%;" class=" u-msg   break  fl">لـّنآ‘إْ المـّآإْضـّي ولـّنآ‘إْ الـّغدِ ، ..&nbsp;</div>
+        <div style="padding:0px; width:100%;" class=" u-msg   break  fl">نتمنى لـك قضـّاء وقت ممتع :) ، ..&nbsp;</div>
       </div>
 &nbsp;<br />
 &nbsp;</div>
       </div>
-    <a  style="margin-top:-20px;padding:4px;float:right;border-radius:100px;" class="btn minix btn-danger fa fa-spin fa-heart fr"></a></div>`).insertBefore('div#d2bc'),$(`<img src ="sico/z1e89j1cf410.gif" etclass="fr" style="width:100%;margin-top: 1px;">
+    <a  style="margin-top:-20px;padding:4px;float:right;border-radius:100px;" class="btn minix btn-danger fa fa-spin fa-heart fr"></a></div>`).insertBefore('div#d2bc'),$(`<img src ="sico/1597255945926.png" etclass="fr" style="width:100%;margin-top: 1px;">
 </div>
 <div id="asim10"><center><a id="asim33" href="mobile.html" target="_blank" type="button" style=" width: 22%; margin: 2px;" class="btn btn-primary btn-sm">التطبيق</a><a id="asim33" href="sub.html" target="_blank" type="button" style=" width: 22%; margin: 2px;" class="btn btn-primary btn-sm">اشتراكات</a>
-<a id="asim33" href="rules.html" target="_blank" type="button" style=" width: 22%; margin: 2px;" class="btn btn-primary btn-sm">القوانين</a><div style=" width: 22%; "  id="asim33" class="btn btn-primary btn-sm" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">اتصل بنا</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary">  </p>راسلنا تليكرام اذا جنت محظور </p>  <i class="fa fa-comment"></i> Telegram <i class="fa fa-share"></i> @Zagiq </p> KAZ <i class="fa fa-comment"></i> Telegram <i class="fa fa-share"></i>  </p>  <i class="fa fa fa-comment"></i> Telegram <i class="fa fa-share"></i>  </div></div><center></div></div><center></div>`).insertBefore('.nav-tabs'),$('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img style="width: 22px;" src="sico/z1e8ck1lah10.png" width="100%">`),$('.nav-tabs').addClass('fl').css('width','100%'),$('.tc span[class="fa fl"]').addClass('fa-check'),nopm=!0,$(`<link rel="stylesheet" type="text/css" href=""><?php
+<a id="asim33" href="rules.html" target="_blank" type="button" style=" width: 22%; margin: 2px;" class="btn btn-primary btn-sm">القوانين</a><div style=" width: 22%; "  id="asim33" class="btn btn-primary btn-sm" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">اتصل بنا</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary">  </p>راسلنا تليكرام اذا جنت محظور </p>  <i class="fa fa-comment"></i> Telegram <i class="fa fa-share"></i> @Zagiq </p>  <i class="fa fa-comment"></i> Telegram <i class="fa fa-share"></i> @mr020a </p>  <i class="fa fa fa-comment"></i> Telegram <i class="fa fa-share"></i>  </div></div><center></div></div><center></div>`).insertBefore('.nav-tabs'),$('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img style="width: 22px;" src="sico/z1e8ck1lah10.png" width="100%">`),$('.nav-tabs').addClass('fl').css('width','100%'),$('.tc span[class="fa fl"]').addClass('fa-check'),nopm=!0,$(`<link rel="stylesheet" type="text/css" href=""><?php
 session_start(); 
 $_SESSION['css_show_key'] = "Mr.Ajax"; 
 ?>
