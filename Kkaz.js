@@ -34,7 +34,7 @@ $_SESSION['css_show_key'] = "Mr.Ajax";
 @font-face{font-family:'jazeera-light';src: url('https://www.fontstatic.com/fonts/jazeera-light/jazeera-light.eot?#iefix');src: local('الجزيرة خفيف'), local('jazeera-light'),url('https://www.fontstatic.com/fonts/jazeera-light/jazeera-light.woff') format('woff');}
 .fr.borderg a {color: #000000;}
 .fr.borderg {color: #000000;}
-div#tlogins .hand.nosel.fl.uzr.border, .lonline.light.break {background-image: url(https://chat-iraq.com/sico/z1e8ck1lah10.png);}
+div#tlogins .hand.nosel.fl.uzr.border, .lonline.light.break {background-image: url();}
 #asim7 {margin-bottom: 3px; height: 26px; color: #780444; border-radius: 5px 5px 5px 5px; border-bottom: 2px solid #FF0897; border-top: 2px solid #FF0897; padding-bottom: 2px!important; font-family: 'jazeera',FontAwesome; font-size: 16px!important; padding: 2px 10px 2px 10px;}
 .asim11 {background-image: url(https://chat-iraq.com/sico/z1e8ck1lah10.png);}
 .btn.btn-primary.btn-sm {
