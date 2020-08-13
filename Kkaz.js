@@ -9,11 +9,11 @@ $(` <center><div></div><center>
 
 
 $(`<div class="uzr fl corner borderg mm bid1camh6so110" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:white;">
-      <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(&quot;pic/1e871qp6o10.gif&quot;);" class="fl fitimg hand u-pic    ">
+      <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(&quot;sico/1597341208200.gif&quot;);" class="fl fitimg hand u-pic    ">
       <span style="margin-top:2px;padding:0px 2px;margin-left:-20px;margin-right:4px;color:grey" class="fr minix tago" ago="1523322166256">الآن</span>
       <div class="uzr fl" style="padding:0px;width:80%">
         <div style="padding:0px;width:100%;" class="fl">
-          <img class="fl u-ico" alt="" src="sico/1597341208200.gif">
+          <img class="fl u-ico" alt="" src="">
           <span style="padding: 1px 8px; margin-top: 2px; display: block; max-width: 82%; border-radius: 3px; color: rgb(250, 250, 250); background-color: rgb(130, 130, 130);" class="corner nosel u-topic dots fl hand">  شــات عســل تــايم</span>
         </div>
         <br>
